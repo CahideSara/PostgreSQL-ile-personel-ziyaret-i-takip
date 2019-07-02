@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2013\Projects\vtys_takip\vtys_takip\bin\Debug\vtys_takip.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\vtys_takip\vtys_takip\bin\Debug\vtys_takip.exe
+c:\users\asus\documents\visual studio 2013\Projects\vtys_takip\vtys_takip\bin\Debug\vtys_takip.pdb
+c:\users\asus\documents\visual studio 2013\Projects\vtys_takip\vtys_takip\obj\Debug\vtys_takip.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\vtys_takip\vtys_takip\obj\Debug\vtys_takip.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\vtys_takip\vtys_takip\obj\Debug\vtys_takip.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\vtys_takip\vtys_takip\obj\Debug\vtys_takip.exe
+c:\users\asus\documents\visual studio 2013\Projects\vtys_takip\vtys_takip\obj\Debug\vtys_takip.pdb
+C:\Users\asus\Documents\Visual Studio 2013\Projects\vtys_takip\vtys_takip\obj\Debug\vtys_takip.CRUD.resources
+C:\Users\asus\documents\visual studio 2013\Projects\vtys_takip\vtys_takip\obj\Debug\vtys_takip.GÜNCELLE.resources
+C:\Users\asus\Documents\Visual Studio 2013\Projects\vtys_takip\vtys_takip\obj\Debug\vtys_takip.csprojAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2013\Projects\vtys_takip\vtys_takip\obj\Debug\vtys_takip.csproj.CoreCompileInputs.cache
